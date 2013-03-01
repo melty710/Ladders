@@ -1,0 +1,1 @@
+web: bundle exec rackup static.ru -p $PORT
